@@ -36,3 +36,15 @@
 [B2009 计算 (a+b)/c 的值](https://www.luogu.com.cn/problem/B2009)
 
 [B2010 带余除法](https://www.luogu.com.cn/problem/B2010)
+
+[B2011 计算分数的浮点数值](https://www.luogu.com.cn/problem/B2011)
+
+[B2012 甲流疫情死亡率](https://www.luogu.com.cn/problem/B2012)
+
+[B2013 温度表达转化](https://www.luogu.com.cn/problem/B2013)
+
+[B2014 与圆相关的计算](https://www.luogu.com.cn/problem/B2014)
+
+[B2015 计算并联电阻的阻值](https://www.luogu.com.cn/problem/B2015)
+
+[B2016 浮点数向零舍入](https://www.luogu.com.cn/problem/B2016)
