@@ -48,3 +48,9 @@
 [B2015 计算并联电阻的阻值](https://www.luogu.com.cn/problem/B2015)
 
 [B2016 浮点数向零舍入](https://www.luogu.com.cn/problem/B2016)
+
+[B2017 打印 ASCII 码](https://www.luogu.com.cn/problem/B2017)
+
+[B2018 打印字符](https://www.luogu.com.cn/problem/B2018)
+
+[B2019 整型与布尔型的转换](https://www.luogu.com.cn/problem/B2019)
