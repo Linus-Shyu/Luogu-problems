@@ -54,3 +54,11 @@
 [B2018 打印字符](https://www.luogu.com.cn/problem/B2018)
 
 [B2019 整型与布尔型的转换](https://www.luogu.com.cn/problem/B2019)
+
+[B2019 整型与布尔型的转换](https://www.luogu.com.cn/problem/B2019)
+
+[B2021 输出保留 3 位小数的浮点数](https://www.luogu.com.cn/problem/B2021)
+
+[B2022 输出保留 12 位小数的浮点数](https://www.luogu.com.cn/problem/B2022)
+
+[B2023 空格分隔输出](https://www.luogu.com.cn/problem/B2023)
