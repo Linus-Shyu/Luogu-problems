@@ -62,3 +62,9 @@
 [B2022 输出保留 12 位小数的浮点数](https://www.luogu.com.cn/problem/B2022)
 
 [B2023 空格分隔输出](https://www.luogu.com.cn/problem/B2023)
+
+[B2024 输出浮点数](https://www.luogu.com.cn/problem/B2024)
+
+[B2025 输出字符菱形](https://www.luogu.com.cn/problem/B2025)
+
+[B2027 计算球的体积](https://www.luogu.com.cn/problem/B2027)
