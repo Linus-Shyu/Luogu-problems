@@ -75,3 +75,8 @@
 
 [B2030 计算线段长度](https://www.luogu.com.cn/problem/B2030)
 
+[B2031 计算三角形面积](https://www.luogu.com.cn/problem/B2031)
+
+[B2033 A*B 问题](https://www.luogu.com.cn/problem/B2033)
+
+[B2034 计算 2 的幂](https://www.luogu.com.cn/problem/B2034)
