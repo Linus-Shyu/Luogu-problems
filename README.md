@@ -68,3 +68,10 @@
 [B2025 输出字符菱形](https://www.luogu.com.cn/problem/B2025)
 
 [B2027 计算球的体积](https://www.luogu.com.cn/problem/B2027)
+
+[B2028 反向输出一个三位数](https://www.luogu.com.cn/problem/B2028)
+
+[B2029 大象喝水](https://www.luogu.com.cn/problem/B2029)
+
+[B2030 计算线段长度](https://www.luogu.com.cn/problem/B2030)
+
