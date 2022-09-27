@@ -80,3 +80,9 @@
 [B2033 A*B 问题](https://www.luogu.com.cn/problem/B2033)
 
 [B2034 计算 2 的幂](https://www.luogu.com.cn/problem/B2034)
+
+[B2035 判断数正负](https://www.luogu.com.cn/problem/B2035)
+
+[B2036 输出绝对值](https://www.luogu.com.cn/problem/B2036)
+
+[B2037 奇偶数判断](https://www.luogu.com.cn/problem/B2037)
