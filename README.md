@@ -86,3 +86,9 @@
 [B2036 输出绝对值](https://www.luogu.com.cn/problem/B2036)
 
 [B2037 奇偶数判断](https://www.luogu.com.cn/problem/B2037)
+
+[B2038 奇偶 ASCII 值判断](https://www.luogu.com.cn/problem/B2038)
+
+[B2039 整数大小比较](https://www.luogu.com.cn/problem/B2039)
+
+[B2040 判断是否为两位数](https://www.luogu.com.cn/problem/B2040)
