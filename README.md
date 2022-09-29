@@ -92,3 +92,9 @@
 [B2039 整数大小比较](https://www.luogu.com.cn/problem/B2039)
 
 [B2040 判断是否为两位数](https://www.luogu.com.cn/problem/B2040)
+
+[B2042 判断一个数能否同时被 3 和 5 整除](https://www.luogu.com.cn/problem/B2042)
+
+[B2043 判断能否被 3，5，7 整除](https://www.luogu.com.cn/problem/B2043)
+
+[B2044 有一门课不及格的学生](https://www.luogu.com.cn/problem/B2044)
