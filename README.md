@@ -98,3 +98,9 @@
 [B2043 判断能否被 3，5，7 整除](https://www.luogu.com.cn/problem/B2043)
 
 [B2044 有一门课不及格的学生](https://www.luogu.com.cn/problem/B2044)
+
+[B2045 晶晶赴约会](https://www.luogu.com.cn/problem/B2045)
+
+[B2046 骑车与走路](https://www.luogu.com.cn/problem/B2046)
+
+[B2049 最大数输出](https://www.luogu.com.cn/problem/B2049)
