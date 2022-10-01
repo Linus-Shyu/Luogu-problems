@@ -104,3 +104,9 @@
 [B2046 骑车与走路](https://www.luogu.com.cn/problem/B2046)
 
 [B2049 最大数输出](https://www.luogu.com.cn/problem/B2049)
+
+[B2050 三角形判断](https://www.luogu.com.cn/problem/B2050)
+
+[B2052 简单计算器](https://www.luogu.com.cn/problem/B2052)
+
+[CF4A Watermelon](https://www.luogu.com.cn/problem/CF4A)
